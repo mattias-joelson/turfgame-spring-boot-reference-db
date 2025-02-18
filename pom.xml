@@ -28,7 +28,7 @@
     </scm>
     <properties>
         <java.version>21</java.version>
-        <org.joelson.turf.resources.version>1.6-SNAPSHOT</org.joelson.turf.resources.version>
+        <org.joelson.turf.resources.version>1.6.0</org.joelson.turf.resources.version>
     </properties>
     <dependencies>
         <dependency>
